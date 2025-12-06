@@ -1,6 +1,6 @@
 # Connections Viewer
 
-![Program Screenshot](Img.png)
+![Program Screenshot](Img1.png)
 
 ## Overview
 **Connections Viewer** is a Python GUI tool to monitor system processes and network connections, perform IP intelligence, and display geolocation on Google Maps. Ideal for system administrators, network analysts, and cybersecurity enthusiasts.
@@ -27,3 +27,5 @@
 
 
 
+## Result
+![Result Screenshot](Img2.png)
