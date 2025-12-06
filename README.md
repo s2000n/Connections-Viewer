@@ -1,4 +1,4 @@
-# Connections Viewer with IP Lookup
+# Connections Viewer
 
 ![Program Screenshot](Img.png)
 
@@ -24,4 +24,5 @@
 ### Search & Filtering
 - Instant search by PID or process name  
 - Real-time list updates
+
 
