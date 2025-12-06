@@ -3,7 +3,7 @@
 ![Program Screenshot](Img.png)
 
 ## Overview
-**Connections Viewer with IP Lookup** is a Python GUI tool to monitor system processes and network connections, perform IP intelligence, and display geolocation on Google Maps. Ideal for system administrators, network analysts, and cybersecurity enthusiasts.
+**Connections Viewer** is a Python GUI tool to monitor system processes and network connections, perform IP intelligence, and display geolocation on Google Maps. Ideal for system administrators, network analysts, and cybersecurity enthusiasts.
 
 ---
 
@@ -24,5 +24,6 @@
 ### Search & Filtering
 - Instant search by PID or process name  
 - Real-time list updates
+
 
 
