@@ -16,6 +16,7 @@
 - Refresh process list  
 
 ### IP Lookup
+- Rate of IP security.
 - Displays IP, Decimal, Hostname, ASN, ISP, Organization  
 - Shows location: Country, Region, City, Latitude/Longitude (Google Maps link)  
 - Timezone information  
@@ -29,6 +30,7 @@
 
 ## Result
 ![Result Screenshot](Img_result.png)
+
 
 
 
