@@ -28,6 +28,7 @@
 
 
 ## Result
-![Result Screenshot](Img_res.png)
+![Result Screenshot](Img_result.png)
+
 
 
