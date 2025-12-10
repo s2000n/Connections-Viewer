@@ -10,10 +10,14 @@
 ## Features
 
 ### Process & Connection Viewer
-- Lists running processes (PID & Name)  
-- Shows active connections (Local/Remote IP & Port, Protocol, Status)  
+- Lists running processes (PID & Name & status)
+- Right-click actions: Open file location for process, kill proess, Block or unblock for process
+- Refresh process list
+
+### Connection Viewer
+- Shows active connections (Local/Remote IP & Port, Protocol, Status)
+- show connection type (TCP & UDP)
 - Right-click actions: copy values, perform IP lookup  
-- Refresh process list  
 
 ### IP Lookup
 - Rate of IP security.
@@ -27,9 +31,9 @@
 - Real-time list updates
 
 
-
-## Result
+## IP loockup result
 ![Result Screenshot](Img_result.png)
+
 
 
 
